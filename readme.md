@@ -1,6 +1,6 @@
 # Chipotle Coupon Discord Bot
 
-What's better than BOGO coupons from Chipotle? Chipotle + Discord! This bot allows your users to get BOGO coupons instantly!
+What's better than BOGO coupons from Chipotle? Chipotle + Discord! This bot allows your users to get BOGO coupons instantly! It protects their privacy by deleting the message right away, even if the message contained an error.
 
 # Instructions
 
