@@ -1,0 +1,24 @@
+{
+  "name": "chipotle-discord-bot",
+  "version": "1.0.0",
+  "description": "A discord bot that allows users to get free Chipotle coupons.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yousefissa/chipotle-discord-bot.git"
+  },
+  "author": "Yousef Issa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yousefissa/chipotle-discord-bot/issues"
+  },
+  "homepage": "https://github.com/yousefissa/chipotle-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "request": "^2.81.0"
+  }
+}
